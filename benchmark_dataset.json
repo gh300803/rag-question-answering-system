@@ -1,0 +1,106 @@
+[
+  {
+    "query_id": "sa_000",
+    "query": "What is biryani and which region is it originally associated with?",
+    "answer": "Biryani is a mixed rice dish originating in the Indian subcontinent, made with long-grain basmati rice, spices, and meat, vegetables, or eggs. It is closely associated with Mughal cuisine and is particularly famous in the city of Hyderabad as well as in Lucknow, where the dum cooking technique is used to slow-cook the layered rice and meat together.",
+    "answer_source": "wiki_biryani",
+    "question_type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "sa_001",
+    "query": "What distinguishes Hyderabadi biryani from Lucknowi (Awadhi) biryani?",
+    "answer": "Hyderabadi biryani uses the kacchi (raw) method, where raw marinated meat is layered directly with par-cooked rice and slow-cooked together using the dum technique, resulting in meat that cooks in its own juices and deeply flavours the rice. Lucknowi (Awadhi) biryani uses the pakki method, where the meat is fully cooked before being layered with the rice, producing a more subtle, fragrant flavour. Hyderabadi biryani tends to be spicier and more robust, while Awadhi biryani is noted for its delicate, aromatic character.",
+    "answer_source": "wiki_biryani",
+    "question_type": "comparative",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "sa_002",
+    "query": "What is the difference between naan and roti?",
+    "answer": "Naan is a leavened flatbread made from white wheat flour, typically with yoghurt or yeast, and is traditionally baked in a tandoor oven, giving it a soft, slightly charred exterior with air pockets. Roti (also called chapati) is an unleavened flatbread made from whole-wheat flour (atta) and water, and is cooked on a flat griddle (tawa). Roti is thinner, lighter, and lower in calories, and is an everyday staple, while naan is richer, softer, and more often served at restaurants or special occasions.",
+    "answer_source": "wiki_naan",
+    "question_type": "comparative",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "sa_003",
+    "query": "How is dosa batter traditionally prepared?",
+    "answer": "Traditional dosa batter is made by soaking rice and urad dal separately, grinding them, and fermenting the mixture before cooking it on a hot pan.",
+    "answer_source": "wiki_dosa",
+    "question_type": "procedural",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "sa_004",
+    "query": "What ingredients are used in a classic samosa and how is it cooked?",
+    "answer": "A classic samosa consists of a pastry shell filled with spiced potatoes and peas, then deep-fried until crisp.",
+    "answer_source": "wiki_samosa",
+    "question_type": "procedural",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "sa_005",
+    "query": "What is cardamom and what are the differences between green and black cardamom?",
+    "answer": "Cardamom is a spice from plant seed pods. Green cardamom is sweet and aromatic, while black cardamom is smoky and used in savoury dishes.",
+    "answer_source": "wiki_cardamom",
+    "question_type": "ingredient",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "sa_006",
+    "query": "How does Sri Lankan cuisine differ from South Indian cuisine?",
+    "answer": "Sri Lankan cuisine uses more coconut milk, is spicier, and includes ingredients like Maldive fish, with strong colonial influences.",
+    "answer_source": "wiki_sri_lankan_cuisine",
+    "question_type": "comparative",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "sa_007",
+    "query": "What is the difference between a curry and a masala?",
+    "answer": "Curry refers to a sauce-based dish, while masala refers to a spice mix or seasoning.",
+    "answer_source": "wiki_curry",
+    "question_type": "comparative",
+    "difficulty": "medium"
+  },
+  {
+    "query_id": "sa_008",
+    "query": "What are the key features of Pakistani cuisine compared to North Indian cuisine?",
+    "answer": "Pakistani cuisine is more meat-heavy, uses more whole spices, and has stronger Central Asian influences.",
+    "answer_source": "wiki_pakistani_cuisine",
+    "question_type": "comparative",
+    "difficulty": "hard"
+  },
+  {
+    "query_id": "sa_009",
+    "query": "What is butter chicken and where did it originate?",
+    "answer": "Butter chicken is a curry made with chicken in a tomato and butter sauce, originating in Delhi, India.",
+    "answer_source": "wiki_butter_chicken",
+    "question_type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "sa_010",
+    "query": "How is tandoori chicken traditionally prepared?",
+    "answer": "Tandoori chicken is marinated in yogurt and spices and cooked in a tandoor oven at high heat.",
+    "answer_source": "wiki_tandoori_chicken",
+    "question_type": "procedural",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "sa_011",
+    "query": "What is dal and why is it important in South Asian cuisine?",
+    "answer": "Dal refers to split pulses and dishes made from them, and is an important protein source in vegetarian diets.",
+    "answer_source": "wiki_dal",
+    "question_type": "factual",
+    "difficulty": "easy"
+  },
+  {
+    "query_id": "sa_012",
+    "query": "What is the difference between biryani and pilaf?",
+    "answer": "Biryani is a layered rice dish with spiced meat, while pilaf is a simpler rice dish cooked in broth.",
+    "answer_source": "wiki_biryani",
+    "question_type": "comparative",
+    "difficulty": "medium"
+  }
+]
