@@ -11,6 +11,7 @@ It combines retrieval and generation to produce grounded answers, with evaluatio
 - `03_evaluation.ipynb` — evaluates generated answers against benchmark answers
 - `benchmark_dataset.json` — benchmark question-answer dataset
 - `evaluation_results.json` — saved evaluation outputs
+- `background_corpus.json` — custom document corpus used for retrieval
 - `requirements.txt` — project dependencies
 
 ## Overview
