@@ -66,3 +66,4 @@ Run the notebooks in the following order:
 - This repository is adapted from a team project, so the implementation reflects collaborative coursework development
 - Models may need to be downloaded from Hugging Face on first run
 - The repository is intended to demonstrate the system pipeline, retrieval strategy, and evaluation workflow
+- Outputs in `02_rag_pipeline.ipynb` are cleared to ensure compatibility with GitHub preview (the notebook originally included interactive elements). Results can be reproduced by running the notebook locally.
